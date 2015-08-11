@@ -1,22 +1,18 @@
-# HW04
-
-###In-Class:
-+ HW05_ex00_TextAdventure.py
-+ HW05_ex00_logics.py
+# HW06
 
 ###Think Python:
-####[Chapter 14: Files][ch14]
-+ READ ONLY 14.1-14.5
 
 ####[Chapter 9: Case Study: Word Play][ch9]
-+ READ ONLY 9.1
-+ HW05_ex09_01.py
++ (no reading; choose three exercises from below)
++ HW06_ex09_02.py
++ HW06_ex09_03.py
++ HW06_ex09_04.py
++ HW06_ex09_05.py
++ HW06_ex09_06.py
 
-####[Python docs: os module][os]
-+ take a gander
+####[Chapter 10: Lists][ch10]
 
 <!-- Links -->
 
-[ch14]: http://www.greenteapress.com/thinkpython/html/thinkpython015.html
+[ch10]: http://www.greenteapress.com/thinkpython/html/thinkpython011.html
 [ch9]: http://www.greenteapress.com/thinkpython/html/thinkpython010.html
-[os]: https://docs.python.org/2/library/os.html
