@@ -6,7 +6,7 @@
 # have the letter "e" in it.
 #   - write has_no_e
 # (2)
-# Modify your program from 9.1 to print only the words that have no "e" and 
+# Modify your program from 9.1 to print only the words that have no "e" and
 # compute the percentage of the words in the list have no "e."
 #   - print each approved word on new line, followed at the end by the %
 ##############################################################################
@@ -17,7 +17,7 @@
 
 ##############################################################################
 def main():
-    pass # Call your function(s) here.
+    pass  # Call your function(s) here.
 
 if __name__ == '__main__':
     main()

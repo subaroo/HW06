@@ -2,7 +2,7 @@
 # HW06_ex09_03.py
 
 # (1)
-# Write a function named avoids that takes a word and a string of forbidden 
+# Write a function named avoids that takes a word and a string of forbidden
 # letters, and that returns True if the word doesn't use any of the forbidden
 # letters.
 #   - write avoids
@@ -23,7 +23,7 @@
 
 ##############################################################################
 def main():
-    pass # Call your function(s) here.
+    pass  # Call your function(s) here.
 
 if __name__ == '__main__':
     main()
